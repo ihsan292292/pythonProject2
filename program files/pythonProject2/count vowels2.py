@@ -1,4 +1,4 @@
-
+#count vowels
 ip_str = input("Enter a string: ")
 
 ip_str = ip_str.casefold()
